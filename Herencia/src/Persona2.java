@@ -1,5 +1,5 @@
 package src;
-public class Persona {
+public class Persona2 {
     
     private String nombre;
     private int edad;
@@ -29,4 +29,5 @@ public class Persona {
         return this.telefono;
     }
     
+
 }
